@@ -5,3 +5,7 @@ python-dotenv
 timescale-vector
 instructor
 anthropic
+streamlit
+plotly
+altair
+streamlit-aggrid

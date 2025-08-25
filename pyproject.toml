@@ -1,0 +1,19 @@
+[project]
+name = "pgvector-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "altair",
+    "anthropic",
+    "instructor",
+    "openai",
+    "pandas",
+    "plotly",
+    "psycopg2-binary",
+    "python-dotenv",
+    "streamlit",
+    "streamlit-aggrid",
+    "timescale-vector",
+]
